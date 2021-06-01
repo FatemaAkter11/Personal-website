@@ -18,12 +18,13 @@ h2{
 .fourth-width{
     width: 40%;
     padding-left: 4%;
+    padding-top: 4%;
     float: left;
     margin-left: 3%;
     margin-top: 1%;
 }
 .fourth-width img{
-    width: 60%;
+    width: 100%;
 }
 .header-bg{
     background-image: url(images/header-bg.png);
