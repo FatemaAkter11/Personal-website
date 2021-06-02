@@ -39,7 +39,9 @@ h2{
     color: white;
     padding: 7px 14px;
 }
-
+.anchor-button:hover{
+    color: cyan;
+}
 
 .biography-bg{
     background: url(images/biography-bg.png);
