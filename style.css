@@ -27,6 +27,9 @@ h2{
 .fourth-width img{
     width: 100%;
 }
+#image{
+    padding-top: -10%;
+}
 .header-bg{
     background-image: url(images/header-bg.png);
     
@@ -41,6 +44,7 @@ h2{
 }
 .anchor-button:hover{
     color: cyan;
+    background-image: linear-gradient(rgb(154, 255, 71),rgb(107, 151, 231));
 }
 
 .biography-bg{
